@@ -20,7 +20,7 @@
 
 <body>
 <?php
-// Include the events controller
+// Include the events controller hola
 require_once '../CONTROLLER/eventsController.php';
 
 // Instantiate the controller and get all events
